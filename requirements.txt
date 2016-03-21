@@ -1,1 +1,7 @@
+matplotlib
+numpy
 pandas
+pyyaml
+requests
+scipy
+sklearn
